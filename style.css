@@ -1,0 +1,50 @@
+.red-color{
+    color: red;
+}
+h1{
+    font-size: 55px;
+    color:darkgray;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+ 
+     
+}
+ .half-width{
+     width: 100%;
+ }
+ .half-width img{
+     width:100%;
+     padding-left: 5px;
+ }
+ section{
+     display: flex;
+ }
+    .button-Order-food{
+        text-decoration: none;
+        background-image: linear-gradient(salmon,red);
+        border-radius: 25px;
+        color: white;
+        padding: 15px 30px;
+         
+}
+.mid-banar{
+    background-image: url(images/shapes/7.png);
+    margin-top: 100px;
+}
+.mid-img{
+    width: 100%;
+ 
+    background-repeat: no-repeat;
+}
+.top-section{
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 50px;
+    margin-left: 100px;
+ 
+}
+.mid-banar2{
+    padding: 10px;
+    padding-top: 80px;
+}
